@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://in-gaza.github.io/intelligence-test-Said-Radwan/sitemap.xml
